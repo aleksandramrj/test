@@ -1,0 +1,4 @@
+proba prebacivanja
+cd (putanja) /e/git
+git init
+ufufuffuf
